@@ -1,5 +1,5 @@
 // Angel David Avalos Carrillo
-// Segment Tree [for sum] (Algoritmo)
+// Segment Tree [for min] (Algoritmo)
 
 #include <bits/stdc++.h>
 using namespace std;
