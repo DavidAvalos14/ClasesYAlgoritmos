@@ -1,4 +1,4 @@
-// Angel David Avalos Carrillo
+// Angel David Avalos Carrillo - 22130800
 // Segment Tree [for min] (Algoritmo)
 
 #include <bits/stdc++.h>
