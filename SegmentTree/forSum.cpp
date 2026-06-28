@@ -1,4 +1,4 @@
-// Angel David Avalos Carrillo - 22130800
+    // Angel David Avalos Carrillo - 22130800
 // Segment Tree [for sum] (Algoritmo)
 
 #include <bits/stdc++.h>
@@ -50,7 +50,7 @@ long long query(int idx, int l, int r, int ql, int qr) {
     return (long long)left + right;                            // Retornamos la suma de ambos rangos
 }
 
-int main() {
+int main() { 
     int n, m; cin >> n >> m;
 
     vector<int> nums(n, 0);
